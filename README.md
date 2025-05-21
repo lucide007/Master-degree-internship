@@ -9,3 +9,8 @@ During my internship in a team studying chronobiology, one of my tasks was to se
 Wu, Gang, Ron C. Anafi, Michael E. Hughes, Karl Kornacker, et John B. Hogenesch. « MetaCycle: An Integrated R Package to Evaluate Periodicity in Large Scale Data ». Bioinformatics 32, nᵒ 21 (1 novembre 2016): 3351‑53. https://doi.org/10.1093/bioinformatics/btw405.
 
 Weger, Benjamin D., Cédric Gobet, Fabrice P. A. David, Florian Atger, Eva Martin, Nicholas E. Phillips, Aline Charpagne, Meltem Weger, Felix Naef, et Frédéric Gachon. « Systematic Analysis of Differential Rhythmic Liver Gene Expression Mediated by the Circadian Clock and Feeding Rhythms ». Proceedings of the National Academy of Sciences 118, nᵒ 3 (19 janvier 2021): e2015803118. https://doi.org/10.1073/pnas.2015803118.
+
+Sica, Valentina, Oleg Deryagin, Jacob G. Smith, et Pura Muñoz‐Canoves. « Circadian Transcriptome Processing and Analysis: A Workflow for Muscle Stem Cells ». FEBS Open Bio 13, nᵒ 7 (juillet 2023): 1228‑37. https://doi.org/10.1002/2211-5463.13629.
+
+Pan, Yinghong, Heather Ballance, Huan Meng, Naomi Gonzalez, Sam-Moon Kim, Leymaan Abdurehman, Brian York, et al. « 12-h Clock Regulation of Genetic Information Flow by XBP1s ». Édité par Achim Kramer. PLOS Biology 18, nᵒ 1 (14 janvier 2020): e3000580. https://doi.org/10.1371/journal.pbio.3000580.
+
