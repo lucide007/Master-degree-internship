@@ -14,3 +14,5 @@ Sica, Valentina, Oleg Deryagin, Jacob G. Smith, et Pura Muñoz‐Canoves. « Ci
 
 Pan, Yinghong, Heather Ballance, Huan Meng, Naomi Gonzalez, Sam-Moon Kim, Leymaan Abdurehman, Brian York, et al. « 12-h Clock Regulation of Genetic Information Flow by XBP1s ». Édité par Achim Kramer. PLOS Biology 18, nᵒ 1 (14 janvier 2020): e3000580. https://doi.org/10.1371/journal.pbio.3000580.
 
+Thaben, Paul F., et Pål O. Westermark. « Detecting Rhythms in Time Series with RAIN ». Journal of Biological Rhythms 29, nᵒ 6 (décembre 2014): 391‑400. https://doi.org/10.1177/0748730414553029.
+
