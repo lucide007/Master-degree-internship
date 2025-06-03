@@ -4,6 +4,8 @@
 
 During my internship in a team studying chronobiology, one of my tasks was to set up a workflow for analyzing RNA-seq data from time-series experiments. To achieve this, I relied on the documentation provided by the library preparation kit supplier, as well as publications and repositories available in the references.
 
+
+
 **References** 
 
 Teboul, Michèle, et Franck Delaunay. « Les oscillations harmoniques des rythmes circadiens sortent de l’ombre ». médecine/sciences 39, nᵒ 6‑7 (juin 2023): 544‑50. https://doi.org/10.1051/medsci/2023079.
@@ -18,8 +20,13 @@ Pan, Yinghong, Heather Ballance, Huan Meng, Naomi Gonzalez, Sam-Moon Kim, Leymaa
 
 Thaben, Paul F., et Pål O. Westermark. « Detecting Rhythms in Time Series with RAIN ». Journal of Biological Rhythms 29, nᵒ 6 (décembre 2014): 391‑400. https://doi.org/10.1177/0748730414553029.
 
+Hughes, Michael E., Katherine C. Abruzzi, Ravi Allada, Ron Anafi, Alaaddin Bulak Arpat, Gad Asher, Pierre Baldi, et al. « Guidelines for Genome-Scale Analysis of Biological Rhythms ». Journal of Biological Rhythms 32, nᵒ 5 (octobre 2017): 380‑93. https://doi.org/10.1177/0748730417728663.
+
+Hughes, Michael E., John B. Hogenesch, et Karl Kornacker. « JTK_CYCLE: An Efficient Nonparametric Algorithm for Detecting Rhythmic Components in Genome-Scale Data Sets ». Journal of Biological Rhythms 25, nᵒ 5 (octobre 2010): 372‑80. https://doi.org/10.1177/0748730410379711.
+
+
 https://github.com/naef-lab/dryR/tree/master
 https://github.com/gangwug/MetaCycle
 https://www.bioconductor.org/packages/release/bioc/html/rain.html
-
+https://github.com/5c077/Circa-in-Silico/tree/master
 
