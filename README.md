@@ -2,9 +2,11 @@
 
 **About the project**
 
-During my internship in a team studying chronobiology, one of my tasks was to set up an automated pipeline for analyzing RNA-seq data from time-series experiments. To achieve this, I relied on the documentation provided by the library preparation kit supplier, as well as publications and repositories available in the references.
+During my internship in a team studying chronobiology, one of my tasks was to set up a workflow for analyzing RNA-seq data from time-series experiments. To achieve this, I relied on the documentation provided by the library preparation kit supplier, as well as publications and repositories available in the references.
 
 **References** 
+
+Teboul, Michèle, et Franck Delaunay. « Les oscillations harmoniques des rythmes circadiens sortent de l’ombre ». médecine/sciences 39, nᵒ 6‑7 (juin 2023): 544‑50. https://doi.org/10.1051/medsci/2023079.
 
 Wu, Gang, Ron C. Anafi, Michael E. Hughes, Karl Kornacker, et John B. Hogenesch. « MetaCycle: An Integrated R Package to Evaluate Periodicity in Large Scale Data ». Bioinformatics 32, nᵒ 21 (1 novembre 2016): 3351‑53. https://doi.org/10.1093/bioinformatics/btw405.
 
@@ -15,4 +17,9 @@ Sica, Valentina, Oleg Deryagin, Jacob G. Smith, et Pura Muñoz‐Canoves. « Ci
 Pan, Yinghong, Heather Ballance, Huan Meng, Naomi Gonzalez, Sam-Moon Kim, Leymaan Abdurehman, Brian York, et al. « 12-h Clock Regulation of Genetic Information Flow by XBP1s ». Édité par Achim Kramer. PLOS Biology 18, nᵒ 1 (14 janvier 2020): e3000580. https://doi.org/10.1371/journal.pbio.3000580.
 
 Thaben, Paul F., et Pål O. Westermark. « Detecting Rhythms in Time Series with RAIN ». Journal of Biological Rhythms 29, nᵒ 6 (décembre 2014): 391‑400. https://doi.org/10.1177/0748730414553029.
+
+https://github.com/naef-lab/dryR/tree/master
+https://github.com/gangwug/MetaCycle
+https://www.bioconductor.org/packages/release/bioc/html/rain.html
+
 
