@@ -1,5 +1,5 @@
 # =============================================================================
-# Script R pour l'analyse de rythmes circadiens avec données in silico
+# Script R pour l'analyse de rythmes ultradiens avec données in silico
 # Comparaison de méthodes de détection de rythmes : RAIN, JTK, ARSER, Lomb-Scargle
 # =============================================================================
 
