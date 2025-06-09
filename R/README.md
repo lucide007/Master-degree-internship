@@ -5,9 +5,7 @@ To build the matrix file with the output from STARsolo
 
 **Script  functions**
 
-Functions used for data visualization
-
-(Reformated with Claude AI)
+Functions used for data visualization \n(Reformated with Claude AI)
 
 
 **Script silico data**
