@@ -2,7 +2,7 @@
 
 **About the project**
 
-During my internship in a team studying chronobiology, one of my tasks was to set up a workflow for analyzing RNA-seq data from time-series experiments. To achieve this, I relied on the documentation provided by the library preparation kit supplier, as well as publications and repositories available in the references.
+During my internship in a team studying chronobiology, one of my tasks was to set up a workflow for analyzing RNA-seq data from time-series experiments. To achieve this, I relied on the documentation provided by the library preparation kit supplier (MERCURIUS from ALITHEA GENOMIC), as well as publications and repositories available in the references.
 
 **Workflow**
 
