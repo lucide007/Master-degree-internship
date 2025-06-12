@@ -1,7 +1,7 @@
 **Script preprocessing**
 
 To build the matrix file with the output from STARsolo
-
+(Reformated with Claude AI)
 
 **Script  functions**
 
@@ -18,4 +18,4 @@ Analysis of synthetic data and visualization
 **Script FINAL**
 
 Analysis of data preprocessed
-(Reformated with Claude AI)
+
